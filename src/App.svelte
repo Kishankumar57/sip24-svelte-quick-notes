@@ -71,7 +71,7 @@
   background: #b3d1ab;
  }
 .bg-dark-gray{
-  background: #c6cbe9;
+  background: #2c3461;
 }
 </style>
 
